@@ -1,5 +1,7 @@
 Compilador: c2x
 
+Comandos empleados: gcc -Wall -g -std=c2x -pedantic-errors hello.c -o prog
+
 $ gcc --version
 
 gcc.exe (Rev2, Built by MSYS2 project) 13.2.0
